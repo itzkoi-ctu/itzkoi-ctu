@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 - 🧠 Currently exploring **web development**, **data structures & algorithms**, and **AI fundamentals**
-- 🔨 I enjoy coding in **Java**, **JavaScript**, and **Python**
+- 🔨 I enjoy coding in **Java**, **JavaScript**
 - 🌱 Learning modern frameworks like **React**, **Node.js**, and **Spring**
 - 🌏 I like solving real-world problems through code and teamwork
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, C/C++, Java
+- **Languages**:  JavaScript, C/C++, Java
 - **Web Dev**: HTML, CSS, React, Node.js
 - **Database**: MySQL, MongoDB
 - **Tools**: Git, VS Code, Postman, Figma
